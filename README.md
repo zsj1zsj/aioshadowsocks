@@ -1,3 +1,5 @@
+#add some comments in the file
+
 # aioshadowsocks
 用 asyncio 重写 shadowsocks
 
@@ -15,6 +17,9 @@
 * 流量统计
 * 速率控制
 * 开放了grpc接口(类似ss-manager)
+
+
+
 
 
 ## rpc proto
